@@ -63,8 +63,6 @@ The raw files have been transformed and reorganized into new tables to help data
 
 ## Screenshots
 ![architecture](./img/architecture.drawio.png)
-![data schema staging files](./img/data_schema_staging_files.drawio.png)
-![data schema sor files](./img/data_schema_sor_files.drawio.png)
 ![data model sot tables](./img/data_model_sot_tables.drawio.png)
 ![data dictionary sot tables](./img/architecture.drawio.png)
 
